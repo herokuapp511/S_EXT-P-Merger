@@ -1,3 +1,0 @@
-[submodule "tools/firmware_extractor"]
-	path = tools/firmware_extractor
-	url = https://github.com/Treble-Experience/Firmware_extractor.git
