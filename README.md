@@ -5,6 +5,10 @@
 - lz4
 ### Linux
 ```
+sudo apt update && sudo apt upgrade -y && sudo apt install -y unace unrar zip unzip p7zip-full p7zip-rar sharutils rar uudeview mpack arj cabextract rename liblzma-dev python3-pip brotli lz4 && pip3 install backports.lzma protobuf pycrypto
+```
+### Linux
+```
 apt install unace unrar zip unzip p7zip-full p7zip-rar sharutils rar uudeview mpack arj cabextract rename
 apt install liblzma-dev python-pip brotli lz4
 pip install backports.lzma protobuf pycrypto
@@ -26,7 +30,7 @@ If you get syntax errors run dos2unix on extractor.sh
 ## How to use
 ### Download
 ```
-git clone --recurse-submodules https://github.com/Treble-Experience/S_EXT-P-Merger.git
+git clone --recurse-submodules https://github.com/herokuapp511/S_EXT-P-Merge.git && git clone -q --recurse-submodules https://github.com/AndroidDumps/Firmware_extractor tools/firmware_extractor
 ```
 
 ### Extract images from firmware URL
