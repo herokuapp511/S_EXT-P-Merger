@@ -30,7 +30,7 @@ If you get syntax errors run dos2unix on extractor.sh
 ## How to use
 ### Download
 ```
-git clone --recurse-submodules https://github.com/herokuapp511/S_EXT-P-Merge.git && git clone -q --recurse-submodules https://github.com/AndroidDumps/Firmware_extractor tools/firmware_extractor
+git clone --recurse-submodules https://github.com/herokuapp511/S_EXT-P-Merger.git && git clone -q --recurse-submodules https://github.com/AndroidDumps/Firmware_extractor tools/firmware_extractor
 ```
 
 ### Extract images from firmware URL
